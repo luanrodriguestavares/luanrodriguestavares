@@ -4,7 +4,7 @@
   </h1>
 
   <p align="center">
-    Sou Desenvolvedor Front End
+    Sou Desenvolvedor FullStack
   </p>
   
   
