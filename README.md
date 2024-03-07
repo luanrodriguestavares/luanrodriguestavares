@@ -25,7 +25,7 @@
   <a href="https://www.linkedin.com/in/luanrodriguesti" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
 
-<!-- <div align="center">
+ <div align="center">
 
   ![Snake animation](https://github.com/luanrodriguestavares/luanrodriguestavares/blob/output/github-contribution-grid-snake.svg)
   
