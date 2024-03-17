@@ -1,10 +1,11 @@
 <h1 align="center">
   Oi Tudo bem? Sou 
-  <a href="https://www.linkedin.com/in/luanrodriguesti/">Luan😃️</a>
+  <a href="https://www.linkedin.com/in/luanrodriguesti/">Luan</a>
+  <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">
 </h1>
 
 <p align="center">
-  Sou Desenvolvedor FullStack
+  Desenvolvedor FullStack
 </p>
   
 
