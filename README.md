@@ -35,7 +35,7 @@ const luan = {
 
 Sou um entusiasta da tecnologia e gosto de resolver problemas complexos através do código. Sempre em busca de aprender algo novo, estou constantemente explorando frameworks como Spring Boot, React e Flutter para criar soluções eficientes e inovadoras.
 
-When I'm not immersed in code, you might find me:
+Quando não estou programando, você pode me encontrar:
 
 - 📚 Aprendendo e praticando algo novo em tecnologia
 - 🎮 Ouvindo música para relaxar e encontrar inspiração
