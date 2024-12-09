@@ -1,27 +1,61 @@
-<h1 align="center">
-  Oi Tudo bem? Sou 
-  <a href="https://www.linkedin.com/in/luanrodriguesti/">Luan</a>
-  <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">
-</h1>
+# Luan Rodrigues
 
-<p align="center">
-  Desenvolvedor FullStack
-</p>
-  
+## Engenheiro de Software | Desenvolvedor Full Stack
 
-<div align="center" valign="top"><br>
-  <img align="center" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-  <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="MySQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
-</div>
+Olá, sou o Luan, engenheiro de software com experiência em arquitetura de sistemas, desenvolvimento de APIs e otimização de processos. Cursando Bacharelado em Sistemas de Informação, busco sempre aplicar boas práticas e tecnologias de ponta para criar soluções robustas e sustentáveis.
 
-<br>
+---
 
-<div align="center">
-  <a href="https://instagram.com/luanrodrigues7k" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href = "mailto:luantavares.developer@gmail.com"><img src="https://img.shields.io/badge/-email-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/luanrodriguesti" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-</div>
+### Tech Stack
+
+```typescript
+const luan = {
+  languages: ['Java', 'JavaScript', 'TypeScript', 'Python'],
+  frontend: ['React', 'React Native', 'Flutter'],
+  backend: ['Spring Boot', 'Node.js', 'Django', 'Flask'],
+  databases: ['PostgreSQL', 'MongoDB', 'MySQL'],
+  tools: ['Git', 'Docker', 'Kubernetes'],
+  architecture: ['Microservices', 'REST APIs', 'GraphQL']
+}
+```
+
+---
+
+### 💡 O que eu faço
+
+- 🎨 Crio interfaces de usuário bonitas e responsivas
+- 🔧 Desenvolvo sistemas backend robustos e escaláveis
+- 📱 Desenvolvo aplicações móveis multiplataforma
+- 🌐 Crio APIs RESTful e microsserviços
+- 🧪 Escrevo código limpo e testável
+
+---
+
+### 🌟 Sobre mim
+
+Sou um entusiasta da tecnologia e gosto de resolver problemas complexos através do código. Sempre em busca de aprender algo novo, estou constantemente explorando frameworks como Spring Boot, React e Flutter para criar soluções eficientes e inovadoras.
+
+When I'm not immersed in code, you might find me:
+
+- 📚 Aprendendo e praticando algo novo em tecnologia
+- 🎮 Ouvindo música para relaxar e encontrar inspiração
+- 🏋️‍♂️ Na academia, me desconectando e cuidando da saúde
+
+---
+
+### 🤝 Vamos Conectar!
+
+Estou sempre aberto a colaborar em projetos interessantes ou apenas conversar sobre as últimas tendências tecnológicas. Fique à vontade para entrar em contato!
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luanrodriguestavares)
+[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/luanrodriguestavares)
+[![Email](https://img.shields.io/badge/-Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:luanrodrigues.contatoprofissional@outlook.com)
+
+---
+
+```
+"The only way to do great work is to love what you do." - Steve Jobs
+```
+
+Obrigado pela visita! 🚀✨
+
