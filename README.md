@@ -33,7 +33,7 @@ const luan = {
 
 ### 🌟 Sobre mim
 
-Sou um entusiasta da tecnologia e gosto de resolver problemas complexos através do código. Sempre em busca de aprender algo novo, estou constantemente explorando frameworks como Spring Boot, React e Flutter para criar soluções eficientes e inovadoras.
+Sou apaixonado por tecnologia e adoro resolver problemas complexos com código. Estou sempre em busca de aprender algo novo, explorando frameworks como Spring Boot, React e Flutter para criar soluções eficientes e inovadoras.
 
 Quando não estou programando, você pode me encontrar:
 
